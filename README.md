@@ -39,12 +39,12 @@ sed -n '1,/^>/p' scaffold.fasta | head -n -1 >longest.fasta
 
 ## Отчёт (с помощью скриншотов из multiQC)
 ### Исходные чтения:
-![](img/image1.png)
-![](img/image2.png)
+![](image1.png)
+![](image2.png)
 
 ### Подрезанные чтения
-![](img/image3.png)
-![](img/image4.png)
+![](image3.png)
+![](image4.png)
 
 ## Написанный на питоне код
 Опять же, полный код в папке src или по ссылке ниже.
